@@ -10,8 +10,8 @@ let guestList: string[] = ['Rafay','Naeem','Arsalan','Farzan','Ayan'];
 
 // ASSIGNMENT NO # 15
 
-// let notPresentGuest = 'Ayan';
-// let newGuest = 'Talha'
+let notPresentGuest = 'Ayan';
+let newGuest = 'Talha'
 
 guestList[4] = newGuest;
 
